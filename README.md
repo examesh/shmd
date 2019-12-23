@@ -105,7 +105,7 @@ EOF
 **Result**, saved in `api.md`:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/examesh/ipy/master/shmd.png" width=600px>
+<img src="https://raw.githubusercontent.com/examesh/shmd/master/shmd.png" width=600px>
 </p>
 
 <br><br>
